@@ -1,6 +1,6 @@
 -i https://pypi.org/simple
 alembic==1.0.1
-git+git://github.com/mloar7/alpaca_trade_api@master#egg=alpaca-trade-api
+git+git://github.com/AndriyZav/alpaca_trade_api@master#egg=alpaca-trade-api
 appnope==0.1.0 ; sys_platform == 'darwin'
 astor==0.7.1
 asyncio-nats-client==0.8.2
